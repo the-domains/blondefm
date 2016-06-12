@@ -1,14 +1,14 @@
-layout_spectrum: 0.30289777973666787
-typography_spectrum: 0.2772441594861448
+layout_spectrum: 0.45710320118814707
+typography_spectrum: 0.4477806573268026
 color:
-  brandStrength: 0.6653360698837787
-  lightness: 0.9577769534662366
-  saturation: 0.6620469125919044
-  rhythmicContrast: 0.7199484966695309
+  brandStrength: 0.40380741422995925
+  lightness: 0.5170239752624184
+  saturation: 0.8653918989002705
+  rhythmicContrast: 0.06917345407418907
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
 name: BlondeFM
