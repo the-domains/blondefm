@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[BlondeFM]]></title>
         <description><![CDATA[BlondeFM]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/blondefm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 01:25:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 01:25:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/blondefm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a306e925-ddd8-48e7-a6d4-32bf4c12c792.png">]]></description>
+            <link>https://thegrid.ai/blondefm/3174d2e3-f4b9-45d5-903a-d5a3b53fec9a/index.html</link>
+            <guid isPermaLink="false">3174d2e3-f4b9-45d5-903a-d5a3b53fec9a</guid>
+            <pubDate>Sun, 12 Jun 2016 01:25:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Queen - Hammer To Fall (Official Video)]]></title>
             <description><![CDATA[<article><h1>Queen - Hammer To Fall (Official Video)</h1><p>Click here to buy the Queen Collection Boxset - https://queenofficial.lnk.to/studio-collection Subscribe to the Official Queen Channel Here http://bit.ly/Subscribe2Queen Taken from The Works, 1984. QUEEN: STUDIO COLLECTION - ALL 15 STUDIO ALBUMS ON 180 GRAM COLOURED VINYL - OUT SEPTEMBER 25 ORDER NOW: http://QUEEN.LNK.TO/STUDIOCOLLECTION Hammer To Fall (promo video, 1984) Click here to buy the DVD with this video at the Official Queen Store: http://www.queenonlinestore.com The official 'Hammer To Fall' music video.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dfe91b808a07a7b0c3884c40ed907e7bd784901c.jpg"></article>]]></description>
