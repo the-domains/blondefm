@@ -1,11 +1,11 @@
 ---
 title: Blond Freddie Mercury
-datePublished: '2016-06-12T01:24:54.252Z'
-dateModified: '2016-06-12T01:20:02.042Z'
+datePublished: '2016-06-12T01:26:52.905Z'
+dateModified: '2016-06-12T01:26:52.575Z'
 author: []
 description: ''
-starred: false
 sourcePath: _posts/2016-06-12-blond-freddie-mercury.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
