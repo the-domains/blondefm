@@ -1,11 +1,11 @@
 ---
 description: 'https://vimeo.com/170325904'
-dateModified: '2016-06-12T01:24:49.822Z'
-datePublished: '2016-06-12T01:24:52.844Z'
+dateModified: '2016-06-12T01:26:58.508Z'
+datePublished: '2016-06-12T01:26:58.859Z'
 title: Queen’s “Hammer to Fall”
 author: []
-starred: true
 sourcePath: _posts/2016-06-12-queens-hammer-to-fall.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
