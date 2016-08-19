@@ -1,6 +1,5 @@
 layout_spectrum: 0.45710320118814707
 typography_spectrum: 0.4477806573268026
-style: the-composer
 color:
   brandStrength: 0.40380741422995925
   lightness: 0.5170239752624184
@@ -13,3 +12,7 @@ color:
     - '#046380'
     - '#002F2F'
 name: BlondeFM
+navigation:
+  - name: Queen’s “Hammer to Fall”
+    id: 58b64c3f-3d05-42b4-98d5-1a07df498364
+    type: content
